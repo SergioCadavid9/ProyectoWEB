@@ -1,0 +1,40 @@
+body{
+    background-color:#cfcfcf;
+margin: 0px;
+}
+.Contenedor{
+    padding: 10px;
+    vertical-align: middle;
+    margin: auto;
+    width: 400px;
+    
+}
+button{
+    border-radius: 5px;
+    background: red;
+    color:#ffffff;
+    padding: 3px;
+}
+.Contenido{
+    line-height: 1;
+    margin: 10px;
+    display:table-cell;
+
+}
+.Contenido:hover{
+    background: gray;
+}
+
+.Menu{
+    display: inline-block;
+    background: blueviolet;
+    width: 30%;
+}
+
+.Info{
+    display: inline-block;
+    padding: 10px;
+    background: rosybrown;
+    width: 60%;
+}
+

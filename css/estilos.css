@@ -11,7 +11,7 @@ margin: 0px;
 }
 button{
     border-radius: 5px;
-    background: red;
+    background: blue;
     color:#ffffff;
     padding: 3px;
 }
@@ -37,4 +37,24 @@ button{
     background: rosybrown;
     width: 60%;
 }
+li{
+    list-style: none;
+}
 
+fieldset{
+    padding: 20px;
+}
+.Caja{
+    background: red;
+}
+input{
+    margin-bottom: 10px;
+}
+.formulario{
+    background: purple;
+    padding: 10px;
+}
+
+label{
+  color: beige;
+}
